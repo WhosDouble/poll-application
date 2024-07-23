@@ -8,6 +8,8 @@
     footer{
         padding: 40px;
         text-align: center;
+        display: flex;
+        align-items: center;
         background: #f7f7f7;
         position: absolute;
         width: 100%;
